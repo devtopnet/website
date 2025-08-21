@@ -1,5 +1,5 @@
 <!-- _coverpage.md -->
-![logo](https://gitee.com/devtopnet/website/img/logo.ico)
+![logo](https://devtop.net/img/logo.ico)
 
 # Smart-Job | 分布式任务调度平台 
 
